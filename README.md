@@ -1,3 +1,5 @@
+its my first time uploading something on github so please be nice
+
 # bb Dealership (Standalone)
 
 Sistema de concessionária onde:
