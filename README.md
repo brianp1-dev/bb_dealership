@@ -16,7 +16,7 @@ Sistema de concessionária onde:
 - Integração com `qbx_vehicles`, `qbx_vehiclekeys`, `Renewed-Banking` (opcional), `ox_lib`.
 
 ## Instalação
-1. Coloca a pasta `custom_dealership` em `[standalone]`.
+1. Coloca a pasta `bb_dealership` em `[standalone]`.
 2. Garante dependências:
    - `ox_lib`
    - `qbx_core`
@@ -25,7 +25,7 @@ Sistema de concessionária onde:
    - `Renewed-Banking` (se quiser sociedade)
 3. Adiciona no `server.cfg` (após dependências):
 ```
-ensure custom_dealership
+ensure bb_dealership
 ```
 4. Ajusta `config.lua` conforme necessário.
 
